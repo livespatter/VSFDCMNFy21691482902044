@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Lucky Classic Slot ";
-        private static string COMPANY_NAME = "1691489820026615812705";
+        private static string COMPANY_NAME = "1691493709221446596074";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.luckyclassic.slotenjoy";
         private static string PATH_KEYSTORE = "data.keystore";
